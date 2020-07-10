@@ -1,0 +1,7 @@
+Thu  9 Jul 2020 16:41:25 BST: There's an error in the response
+--2020/07/09 17:19:44: Server response returned an error: 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><response><error code="10" msg="addUPI error 10; message: Invalid session ID"/></response>
+2020/07/09 17:20:05: Server response returned an error: 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><response><error code="10" msg="addUPI error 10; message: Invalid session ID"/></response>
+2020/07/09 17:46:22: Server response returned an error: 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><response><error code="10" msg="addUPI error 10; message: Invalid session ID"/></response>
